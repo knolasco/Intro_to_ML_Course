@@ -3,8 +3,10 @@ argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
 attrs==21.4.0
 backcall==0.2.0
+beautifulsoup4==4.10.0
 black==21.12b0
 bleach==4.1.0
+bs4==0.0.1
 cffi==1.15.0
 click==8.0.3
 colorama==0.4.4
@@ -69,6 +71,7 @@ seaborn==0.11.2
 Send2Trash==1.8.0
 six==1.16.0
 sklearn==0.0
+soupsieve==2.3.1
 stack-data==0.1.4
 terminado==0.12.1
 testpath==0.5.0
